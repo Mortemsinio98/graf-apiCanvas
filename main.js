@@ -6,9 +6,9 @@ function draw() {
 
         const ctx = canvas.getContext("2d");
 
- //       // 1 RECTÁNGULO
- //       ctx.fillStyle = "green";
-//        ctx.fillRect(50, 50, 150, 100);
+        // 1 RECTÁNGULO
+        ctx.fillStyle = "green";
+        ctx.fillRect(50, 50, 150, 100);
 
 
         // 2 TRIÁNGULO
