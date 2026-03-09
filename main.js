@@ -19,6 +19,7 @@ function draw() {
         ctx.closePath();
         ctx.fillStyle = "blue";
        ctx.fill();
+        ctx.fill();
 // 3 HAPPY FACE
   ctx.beginPath();
   ctx.arc(550, 100, 50, 0, Math.PI * 2, true);
